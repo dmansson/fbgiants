@@ -1,0 +1,23 @@
+body {
+	background-color: #d3d3d3;
+}
+
+h1 {
+	font-size: 60px;
+}
+h2 {
+	margin-top: -3%;
+}
+h3 {
+	margin-top: -2%;
+}
+h1,h2,h3 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  text-align: center;
+}
+p {
+	font-family: 'Raleway', sans-serif;
+}
+#hej{
+	margin-top: -2%;
+}
